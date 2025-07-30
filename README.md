@@ -6,7 +6,7 @@ This is a simple and responsive personal portfolio website built using **HTML** 
 
 ## 📸 Live Demo
 
-[👉 Click here to view it live](#) — *(Add your Netlify or Vercel link here after deployment)*
+[👉 Click here to view it live](#) — *(https://funditransform.netlify.app/)*
 
 ---
 
