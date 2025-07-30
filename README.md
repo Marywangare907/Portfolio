@@ -6,7 +6,8 @@ This is a simple and responsive personal portfolio website built using **HTML** 
 
 ## 📸 Live Demo
 
-[👉 Click here to view it live](#) — *(https://funditransform.netlify.app/)*
+[👉 Click here to view it live](#) — *(https://portfolio-lyart-seven-39.vercel.app/
+)*
 
 ---
 
